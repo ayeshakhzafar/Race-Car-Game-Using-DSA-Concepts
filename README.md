@@ -49,10 +49,10 @@ This project integrates several data structures and programming concepts:
 ```bash
 # Clone the repository
 git clone https://github.com/ayeshakhzafar/Race-Car-Game-Using-DSA-Concepts.git
-cd race-car-game
+cd Race-Car-Game-Using-DSA-Concepts
 
 # Compile the code
-g++ -o racecar racecar.cpp
+g++ -o racecar main.cpp
 
 # Run the game
 ./racecar
